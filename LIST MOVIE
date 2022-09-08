@@ -1,0 +1,94 @@
+#EXTM3U size="Medium"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",VER TUDO
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/-1/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",LANÇAMENTOS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/8/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CINEMA
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/19/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",NETFLIX
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1835/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DISNEY+
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1836/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",PRIME VIDEO
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1837/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",STAR+
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1920/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",TELECINE
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1919/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",APPLE TV
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1918/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",GLOBO PLAY
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1838/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",MARVEL
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1833/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DC COMICS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1834/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",AÇÃO
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/2/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",ANIMAÇÃO
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",AVENTURA
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1841/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",COMÉDIA
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/3/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DOCUMENTÁRIOS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/16/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",DRAMA
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/4/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FAROESTE
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/6/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FICÇÃO
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/21/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",4K
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/15/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",HBO MAX
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/1839/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",INFANTIS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/7/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",LEGENDADOS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/18/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",NACIONAIS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/17/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",RELIGIOSOS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/9/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",ROMANCE
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/10/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SHOWS
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/14/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",STAND UP COMEDY
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/20/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SUSPENSE
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/11/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",TERROR
+#EXTBG: #11609e
+http://ssiptv.lmtv.me/ssiptv/get/pUdFy/4cdAe/list_movies/12/
